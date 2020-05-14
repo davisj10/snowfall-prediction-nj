@@ -207,18 +207,6 @@ min_snow <- grouped_seasons[which.min(grouped_seasons$snow),]
 min_snow
 ## again, this gives us a point closest to the bottom of NJ and near the shore
 
-
-
-
-
-####### DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-### aggregate avg temp for each season and do a graph with a line!!!!!!!!!!
-
-
-
-
-
-
 ### Plotting of all zip codes we will be using here along with snow totals for each zip code
 
 # plotting the zip codes on the map
